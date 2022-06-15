@@ -1,0 +1,24 @@
+            body {
+                background: white;
+                margin-left: 30%;
+                margin-right:30%;
+                text-align: center;
+            }
+            h1 {
+                color: #B22222;
+            }
+            p {
+                color: #B22222
+            }
+            .evangelion {
+                width: 30%;
+            }
+            .onepiece {
+                width: 30%;
+            }
+            .ataque {
+                width: 30%;
+            }
+            .painhall {
+                width: 70%
+            }
