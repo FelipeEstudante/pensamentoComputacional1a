@@ -10,6 +10,7 @@
             p {
                 color: #B22222
             }
+
             .evangelion {
                 width: 30%;
             }
@@ -21,4 +22,7 @@
             }
             .painhall {
                 width: 70%
+            }
+            a {
+                color: #B22222;
             }
